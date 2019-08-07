@@ -1,0 +1,7 @@
+body p {
+  background-color: blue; }
+
+.nav {
+  background: -webkit-gradient(linear, left top, left bottom, from(#0b2267), to(#07133c));
+  background: -o-linear-gradient(top, #0b2267, #07133c);
+  background: linear-gradient(top, #0b2267, #07133c); }
